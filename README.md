@@ -1,2 +1,2 @@
 # spinning-donut
-spinning
+-h flag for list of commands
